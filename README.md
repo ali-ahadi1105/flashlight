@@ -2,7 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-<video src="assets/demo.mp4" width="100%" controls></video>
+<video src="https://raw.githubusercontent.com/ali-ahadi1105/flashlight/main/assets/demo.mp4" width="100%" controls></video>
 
 View your app in AI Studio: https://ai.studio/apps/d1f46a7f-ba4f-4c72-ac65-12d41ff0bd84
 
