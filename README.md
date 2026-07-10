@@ -2,6 +2,8 @@
 
 This contains everything you need to run your app locally.
 
+<video src="Screenrecorder-2026-07-10-10-45-24-853.mp4" width="100%" controls></video>
+
 View your app in AI Studio: https://ai.studio/apps/d1f46a7f-ba4f-4c72-ac65-12d41ff0bd84
 
 ## Run Locally
